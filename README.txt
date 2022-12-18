@@ -1,0 +1,4 @@
+Erros:
+* Swiper
+* ScrollReveal
+* BackToTop
